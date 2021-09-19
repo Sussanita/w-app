@@ -5,12 +5,16 @@ body {
 
 h1 {
   color: #878787;
-  font-size: 30px;
+  font-size: 40px;
   line-height: 28px;
   margin-bottom: 0;
   font-weight: bolder;
+  padding-bottom: 10px;
 }
-
+.btn-primary {
+  background-color: #878787;
+  border: #878787;
+}
 ul {
   margin: 0;
   padding: 0;
